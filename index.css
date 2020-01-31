@@ -1,0 +1,22 @@
+.container-fluid{
+  border-bottom: solid 5px lightblue;
+}
+
+.container{
+  margin-top: 5vh;
+}
+
+.form-control-lg{
+  margin: 2vh auto;
+}
+
+select{
+  width: 100%;
+}
+.sin-materias{
+  margin-top: 5vh;
+}
+
+.tabla .año{
+  text-align: right;
+}
